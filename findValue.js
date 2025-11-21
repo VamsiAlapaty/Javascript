@@ -7,6 +7,7 @@ for(let i of arr){
         console.log("A Element found " + a);
     }else{
         console.log("not found");
+        console.log("B element not found");
     }
 }
 console.log("added log value in firstFile");
